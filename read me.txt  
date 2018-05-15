@@ -1,0 +1,16 @@
+Instrcutions
+
+1 Full path for points.txt should be given 
+
+2 Input file should contain any no.of points but in all points there should be equal no.of 
+  dimension values
+
+3 cluster value should be less than or equal to total noof points  
+
+4 output file is saved in same location of input file with file name clusters.txt  
+
+5 output is shown in the console
+
+  
+
+
